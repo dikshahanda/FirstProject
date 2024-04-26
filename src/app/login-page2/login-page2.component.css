@@ -1,0 +1,36 @@
+.ban-btn{font-family: "Raleway", sans-serif;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.login-img{
+    width: 100%;
+    height: 550px;
+}    
+.login-img img{
+    width: 100%;
+    height: 100%;
+}
+.form{
+    width: 100%;
+}
+.form input{
+    width: 100%;
+    border-radius: 20px;
+    padding: 11px 20px;
+}
+.login-fm{
+    align-items: center;
+    text-align: center;
+}
+.btn-log{
+    width: 100%;
+}
+.btn-log button{
+    width: 100%;
+}
+.for-pas{
+    align-items: right;
+}

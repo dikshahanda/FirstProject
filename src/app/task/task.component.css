@@ -1,0 +1,12 @@
+.frm{
+    text-align: center;
+    padding: 53px;
+    box-shadow: 2px 3px 9px 4px black;
+}
+button.button {
+    padding: 10px 41px 13px 41px;
+    border-radius: 29px;
+}
+.inputt input{
+    width: 100%;
+}

@@ -1,0 +1,23 @@
+<app-homepage></app-homepage>
+<div class="container mt-5 login-fm ">
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <div class="">
+                <h2>Welcome Back!</h2>
+            <p>Similarly we have many think to do so we have to login first in this login page.</p>
+            <div class="form pt-5">
+                <input placeholder="Username" #user><br>
+                <input placeholder="Password" class=" mt-4" #pass>
+                <p class="for-pas">Forget Password</p>
+            </div>
+            <div class="btn-log pt-5"><button class="ban-btn bg-dark text-white" (click)="loginn(user.value,pass.value)">Login</button></div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="login-img">
+                <img src="..\assets\images\login-img.png">
+            </div>
+        </div>
+    </div> 
+</div>
+<app-footer></app-footer>
